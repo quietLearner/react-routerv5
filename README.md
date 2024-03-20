@@ -15,3 +15,15 @@ npm i -S axios
 
 no need to download json-server if use npx
 npx json-server -p 3500 -w data/db.json
+
+
+custom hook
+https://react.dev/reference/rules/rules-of-hooks
+
+Collection of React Hooks
+https://nikgraf.github.io/react-hooks/
+
+another Collection of React Hooks 
+https://www.npmjs.com/package/react-use
+
+npm i react-icons
