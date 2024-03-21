@@ -1,6 +1,9 @@
 import { createContext, useEffect, useState } from "react";
 import useAxiosFetch from "../hooks/useAxiosFetch";
 
+/*
+  context share data without passing props
+  */
 const DataContext = createContext({});
 
 export const DataProvider = ({ children }) => {
