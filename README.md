@@ -30,5 +30,10 @@ npm i react-icons
 
 
 Context API and useContext hook
-
 useRef, grab html element 
+
+
+npm install easy-peasy
+
+
+https://easy-peasy.vercel.app/
